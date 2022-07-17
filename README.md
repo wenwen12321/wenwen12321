@@ -4,7 +4,7 @@ I am a Master student in CVLab at National Tsing Hua University, Taiwan, under t
 
 My research focuses on **3D Human Pose Estimation**. 
 
-If there have anyone who wants to discuss the same topic together, please feel free to contact me.
+If there is anyone who wants to discuss the same topic together, please feel free to contact me.
 
 <img  src="https://github-readme-stats.vercel.app/api?username=wenwen12321&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="left" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen12321&layout=compact&langs_count=6&hide_title=true&hide_border=true" width="48%" >

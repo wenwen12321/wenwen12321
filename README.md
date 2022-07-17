@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there 👋 This is Qing Wen &nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hi there">](#)&nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=thealiendrew&color=brightgreen)](#)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenwen12321&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen12321&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
+I am a Master student in CVLab at National Tsing Hua University, Taiwan, under the supervision of Prof. Shang-Hong Lai.
+My research focuses on **3D Human Pose Estimation**. 
+If there have anyone who wants to discuss the same topic together, please feel free to contact me.
+
+<img  src="https://github-readme-stats.vercel.app/api?username=wenwen12321&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="left" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen12321&layout=compact&langs_count=6&hide_title=true&hide_border=true" width="48%" >
 
 <!--
 **wenwen12321/wenwen12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

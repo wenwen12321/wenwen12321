@@ -1,4 +1,4 @@
-### Hi there 👋 This is Qing Wen &nbsp;&nbsp;[<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="Hi there">](#)&nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=thealiendrew&color=brightgreen)](#)
+### Hi there 👋 This is Qing Wen &nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=thealiendrew&color=brightgreen)](#)
 
 I am a Master student in CVLab at National Tsing Hua University, Taiwan, under the supervision of Prof. Shang-Hong Lai.
 

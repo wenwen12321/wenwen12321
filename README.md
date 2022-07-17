@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wenwen12321&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen12321&layout=compact&theme=gruvbox)](https://github.com/USERNAME/github-readme-stats)
+
 <!--
 **wenwen12321/wenwen12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

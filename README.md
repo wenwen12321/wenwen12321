@@ -12,7 +12,7 @@ If there is anyone who wants to discuss the same topic together, please feel fre
 ### 😄 Connect with Me
 [![](https://img.shields.io/badge/LinkedIn-Qing%20Wen%20Yang-8E9BAE?logo=linkedin)](https://www.linkedin.com/in/qingwen-yang/)
 [![](https://img.shields.io/badge/Gmail-asd82861892%40gmail.com-976666?logo=gmail)](mailto:asd82861892@gmail.com)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenwen12321&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenwen12321&show_icons=true) -->
 
 <!--
 **wenwen12321/wenwen12321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -8,9 +8,6 @@ If there is anyone who wants to discuss the same topic together, please feel fre
 
 <img  src="https://github-readme-stats.vercel.app/api?username=wenwen12321&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="left" >
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen12321&layout=compact&langs_count=6&hide_title=true&hide_border=true" width="48%" >
-[![wenwen12321's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenwen12321&custom_title=wenwen12321%27s%20GitHub%20Stats&show_icons=true&theme=vue-dark)](#) 
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wenwen12321&exclude_repo=minecraft-classic&langs_count=10&layout=compact&theme=buefy)](#) -->
 
 ### 😄 Connect with Me
 [![](https://img.shields.io/badge/LinkedIn-Qing%20Wen%20Yang-8E9BAE?logo=linkedin)](https://www.linkedin.com/in/qingwen-yang/)

@@ -1,4 +1,4 @@
-### Hi there 👋 This is Qing Wen &nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=wenwen12321&color=brightgreen)](#)
+### Hi there 👋 This is Qing Wen <!--&nbsp;&nbsp;[![Profile views](https://komarev.com/ghpvc/?username=wenwen12321&color=brightgreen)](#) -->
 
 I am a Master student in CVLab at National Tsing Hua University, Taiwan, under the supervision of Prof. Shang-Hong Lai.
 
